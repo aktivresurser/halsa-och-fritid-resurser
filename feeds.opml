@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+<head><title>Hälsa, träning och friluftsliv: kuraterade resurser</title></head>
+<body>
+  <outline text="Hälsa och träning">
+    <outline type="rss" text="Audionom" xmlUrl="https://www.audionom.se/feed/" htmlUrl="https://www.audionom.se/"/>
+    <outline type="rss" text="Blodsockerfall" xmlUrl="https://www.blodsockerfall.se/feed/" htmlUrl="https://www.blodsockerfall.se/"/>
+    <outline type="rss" text="Fotdoktor" xmlUrl="https://www.fotdoktor.se/feed/" htmlUrl="https://www.fotdoktor.se/"/>
+    <outline type="rss" text="Glukos.se" xmlUrl="https://www.glukos.se/feed/" htmlUrl="https://www.glukos.se/"/>
+    <outline type="rss" text="Hudexperten" xmlUrl="https://www.hudexperten.se/feed/" htmlUrl="https://www.hudexperten.se/"/>
+    <outline type="rss" text="Kalium" xmlUrl="https://www.kalium.se/feed/" htmlUrl="https://www.kalium.se/"/>
+    <outline type="rss" text="Kostguiden" xmlUrl="https://www.kostguiden.se/feed/" htmlUrl="https://www.kostguiden.se/"/>
+    <outline type="rss" text="Livskvalitet" xmlUrl="https://www.livskvalitet.se/feed/" htmlUrl="https://www.livskvalitet.se/"/>
+    <outline type="rss" text="Muskler.nu" xmlUrl="https://www.muskler.nu/feed/" htmlUrl="https://www.muskler.nu/"/>
+    <outline type="rss" text="Ont i magen" xmlUrl="https://www.ontimagen.se/feed/" htmlUrl="https://www.ontimagen.se/"/>
+    <outline type="rss" text="Piggare" xmlUrl="https://www.piggare.se/feed/" htmlUrl="https://www.piggare.se/"/>
+    <outline type="rss" text="Terapeut" xmlUrl="https://www.terapeut.nu/feed/" htmlUrl="https://www.terapeut.nu/"/>
+  </outline>
+  <outline text="Sport, fritid och resor">
+    <outline type="rss" text="Frispark" xmlUrl="https://www.frispark.se/feed/" htmlUrl="https://www.frispark.se/"/>
+    <outline type="rss" text="Golfliv" xmlUrl="https://www.golfliv.se/feed/" htmlUrl="https://www.golfliv.se/"/>
+    <outline type="rss" text="Helags" xmlUrl="https://www.helags.se/feed/" htmlUrl="https://www.helags.se/"/>
+    <outline type="rss" text="Husvagnssemester.se" xmlUrl="https://www.husvagnssemester.se/feed/" htmlUrl="https://www.husvagnssemester.se/"/>
+    <outline type="rss" text="Kajakuthyrning.se" xmlUrl="https://www.kajakuthyrning.se/feed/" htmlUrl="https://www.kajakuthyrning.se/"/>
+    <outline type="rss" text="Operaresor.se" xmlUrl="https://www.operaresor.se/feed/" htmlUrl="https://www.operaresor.se/"/>
+    <outline type="rss" text="Resetips" xmlUrl="https://www.resetips.se/feed/" htmlUrl="https://www.resetips.se/"/>
+    <outline type="rss" text="Skidjacka.se" xmlUrl="https://www.skidjacka.se/feed/" htmlUrl="https://www.skidjacka.se/"/>
+    <outline type="rss" text="Strength.se" xmlUrl="https://www.strength.se/feed/" htmlUrl="https://www.strength.se/"/>
+  </outline>
+  <outline text="Cykel och mikromobilitet">
+    <outline type="rss" text="Allt om cykel" xmlUrl="https://www.alltomcykel.se/?feed=rss2" htmlUrl="https://www.alltomcykel.se/"/>
+    <outline type="rss" text="elcykel.nu" xmlUrl="https://www.elcykel.nu/feed/" htmlUrl="https://www.elcykel.nu/"/>
+    <outline type="rss" text="Elhusbil.nu" xmlUrl="https://www.elhusbil.nu/feed/" htmlUrl="https://www.elhusbil.nu/"/>
+    <outline type="rss" text="Fixie.se" xmlUrl="https://www.fixie.se/feed/" htmlUrl="https://www.fixie.se/"/>
+    <outline type="rss" text="Racer" xmlUrl="https://www.racer.se/feed/" htmlUrl="https://www.racer.se/"/>
+    <outline type="rss" text="Wattup.se" xmlUrl="https://www.wattup.se/feed/" htmlUrl="https://www.wattup.se/"/>
+  </outline>
+</body>
+</opml>
