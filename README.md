@@ -1,6 +1,6 @@
 # Hälsa, träning och friluftsliv: kuraterade resurser
 
-En kuraterad och underhållen lista med användbara resurser: myndigheter, standardkällor, verktyg och läsvärda nischsajter. Uppdaterad 2026-07-14. Bidrag välkomna via pull request.
+En kuraterad och underhållen lista med användbara resurser: myndigheter, standardkällor, verktyg och läsvärda nischsajter. Uppdaterad 2026-07-15. Bidrag välkomna via pull request.
 
 
 ## Hälsa och träning
@@ -22,11 +22,13 @@ En kuraterad och underhållen lista med användbara resurser: myndigheter, stand
 - [hudexperten.se](https://www.hudexperten.se/) - En guide om hudvård, hudsjukdomar och behandlingar för din hudhälsa
 - [ontimagen.se](https://www.ontimagen.se/) - Medicinsk information om magbesvär, symptom och när du bör söka vård
 - [glukos.se](https://www.glukos.se/) - Information om blodsocker, glukosmetabolism och hur du uppnår stabila nivåer
+- [terapeut.nu](https://www.terapeut.nu/) - Hitta legitimerade psykologer och terapeuter för olika behov och specialiseringar
 - [blodsockerfall.se](https://www.blodsockerfall.se/) - Information om lågt blodsocker, orsaker, symtom och hur du förebygger det
 - [livskvalitet.se](https://www.livskvalitet.se/) - Forskning och tips för att förbättra sömn, hälsa och långsiktig livskvalitet
-- [terapeut.nu](https://www.terapeut.nu/) - Hitta legitimerade psykologer och terapeuter för olika behov och specialiseringar
 - [kalium.se](https://www.kalium.se/) - Information om kalium, mineraler och spårämnen i kosten samt deras betydelse
 - [audionom.se](https://www.audionom.se/) - En guide för att hitta audionomer och förstå hörselvård vid hörselproblem
+
+*Följ ämnet: [daglig digest](https://aktivresurser.github.io/planet-halsa/) · [Atom-feed](https://aktivresurser.github.io/planet-halsa/feed.xml) · [Mastodon](https://mastodon.social/@halsospanaren)*
 
 
 ## Sport, fritid och resor
@@ -51,6 +53,8 @@ En kuraterad och underhållen lista med användbara resurser: myndigheter, stand
 - [strength.se](https://www.strength.se/) - Träningsprogram, teknikguider och näringsråd för styrkelyftare och kraftsportsentusiaster
 - [resetips.se](https://www.resetips.se/) - Reseguider, packlistor och budgettips för din nästa inspirerande resa
 
+*Följ ämnet: [daglig digest](https://aktivresurser.github.io/planet-sport/) · [Atom-feed](https://aktivresurser.github.io/planet-sport/feed.xml)*
+
 
 ## Cykel och mikromobilitet
 
@@ -70,6 +74,8 @@ En kuraterad och underhållen lista med användbara resurser: myndigheter, stand
 - [alltomcykel.se](https://www.alltomcykel.se/) - En omfattande sajt om cykling med köpguider, tips och cykelleder
 - [elhusbil.nu](https://www.elhusbil.nu/) - En guide om elektriska husbilar, modeller, räckvidd och laddinfrastruktur
 - [elcykel.nu](https://www.elcykel.nu/) - En komplett guide till elcyklar med köptips, jämförelser och information
+
+*Följ ämnet: [daglig digest](https://aktivresurser.github.io/planet-cykel/) · [Atom-feed](https://aktivresurser.github.io/planet-cykel/feed.xml)*
 
 
 ## Följ med RSS
